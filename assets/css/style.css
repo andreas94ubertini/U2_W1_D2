@@ -377,6 +377,9 @@ aside div {
   right: 20px;
   color: grey;
 }
+i.fa-tag {
+  font-size: 3rem;
+}
 
 @media screen and (min-width: 1200px) {
   aside div {
